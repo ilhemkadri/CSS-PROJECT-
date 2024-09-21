@@ -1,0 +1,23 @@
+body {
+    margin: 0;
+    padding: 0;
+    background-image: url('8.jpg');
+    height: 100px;
+    width: 1400px;
+    background-size: cover;
+    font-family: sans-serif;
+}
+img  {
+    position: relative;
+    left: 530px;
+    top: 140px;
+    background-color: rgba(0, 0, 0, 0.347);
+
+}
+.left-section  {
+    color: rgba(0, 0, 0, 0.595);
+    font-size: 25px;
+    position: relative;
+   left: 570px;
+   top: 40px;
+}
